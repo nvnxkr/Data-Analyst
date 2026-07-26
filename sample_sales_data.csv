@@ -1,0 +1,41 @@
+order_date,region,customer,product,category,units,unit_price,revenue
+2024-01-05,West,Acme Corp,Widget A,Widgets,12,25.00,300.00
+2024-01-07,East,Globex Inc,Widget B,Widgets,8,40.00,320.00
+2024-01-10,West,Initech,Gadget X,Gadgets,5,120.00,600.00
+2024-01-12,North,Umbrella LLC,Widget A,Widgets,20,25.00,500.00
+2024-01-15,South,Acme Corp,Gadget Y,Gadgets,3,150.00,450.00
+2024-01-18,East,Soylent Co,Widget C,Widgets,15,30.00,450.00
+2024-01-20,West,Globex Inc,Gadget X,Gadgets,7,120.00,840.00
+2024-01-25,South,Initech,Widget B,Widgets,10,40.00,400.00
+2024-02-02,North,Acme Corp,Widget A,Widgets,18,25.00,450.00
+2024-02-05,East,Umbrella LLC,Gadget Y,Gadgets,4,150.00,600.00
+2024-02-08,West,Soylent Co,Widget C,Widgets,22,30.00,660.00
+2024-02-11,South,Globex Inc,Gadget X,Gadgets,6,120.00,720.00
+2024-02-14,North,Initech,Widget B,Widgets,9,40.00,360.00
+2024-02-18,East,Acme Corp,Widget A,Widgets,25,25.00,625.00
+2024-02-22,West,Umbrella LLC,Gadget Y,Gadgets,5,150.00,750.00
+2024-02-25,South,Soylent Co,Widget C,Widgets,14,30.00,420.00
+2024-03-01,North,Globex Inc,Gadget X,Gadgets,8,120.00,960.00
+2024-03-05,East,Initech,Widget B,Widgets,11,40.00,440.00
+2024-03-08,West,Acme Corp,Widget A,Widgets,30,25.00,750.00
+2024-03-12,South,Umbrella LLC,Gadget Y,Gadgets,6,150.00,900.00
+2024-03-15,North,Soylent Co,Widget C,Widgets,19,30.00,570.00
+2024-03-18,East,Globex Inc,Gadget X,Gadgets,9,120.00,1080.00
+2024-03-22,West,Initech,Widget B,Widgets,13,40.00,520.00
+2024-03-25,South,Acme Corp,Widget A,Widgets,28,25.00,700.00
+2024-04-02,North,Umbrella LLC,Gadget Y,Gadgets,7,150.00,1050.00
+2024-04-05,East,Soylent Co,Widget C,Widgets,24,30.00,720.00
+2024-04-08,West,Globex Inc,Gadget X,Gadgets,10,120.00,1200.00
+2024-04-12,South,Initech,Widget B,Widgets,15,40.00,600.00
+2024-04-15,North,Acme Corp,Widget A,Widgets,33,25.00,825.00
+2024-04-18,East,Umbrella LLC,Gadget Y,Gadgets,8,150.00,1200.00
+2024-05-02,West,Soylent Co,Widget C,Widgets,27,30.00,810.00
+2024-05-05,South,Globex Inc,Gadget X,Gadgets,11,120.00,1320.00
+2024-05-08,North,Initech,Widget B,Widgets,17,40.00,680.00
+2024-05-12,East,Acme Corp,Widget A,Widgets,36,25.00,900.00
+2024-05-15,West,Umbrella LLC,Gadget Y,Gadgets,9,150.00,1350.00
+2024-05-18,South,Soylent Co,Widget C,Widgets,30,30.00,900.00
+2024-06-02,North,Globex Inc,Gadget X,Gadgets,12,120.00,1440.00
+2024-06-05,East,Initech,Widget B,Widgets,19,40.00,760.00
+2024-06-08,West,Acme Corp,Widget A,Widgets,,25.00,
+2024-06-12,South,Umbrella LLC,Gadget Y,Gadgets,10,150.00,1500.00
